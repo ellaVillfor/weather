@@ -6,8 +6,9 @@
 // import { ThemedText } from '@/components/themed-text';
 // import { ThemedView } from '@/components/themed-view';
 // import { Link } from 'expo-router';
+// test ella
 
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import { ActivityIndicator, Button, Text, View } from "react-native";
 import ForecastList from "../../componentsV/ForecastList";
 import { useWeatherViewModel } from "../../hooksVM/useWeatherViewModel";
